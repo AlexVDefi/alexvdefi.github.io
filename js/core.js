@@ -42,6 +42,7 @@ const KeyEnum = Object.freeze({
 const InstrumentPerKeyEnum = Object.freeze({
   "A": InstrumentEnum.BONGO,
   "D": InstrumentEnum.BONGO,
+  " ": InstrumentEnum.MEOW,
 })
 const ClickKeyEquivalentEnum = Object.freeze({
   "1": "A",

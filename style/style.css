@@ -240,6 +240,11 @@ select#select-instrument option {
   z-index: 10
 }
 
+.cat>#mouth {
+  background-image: url(../images/mouth.png);
+  z-index: 20
+}
+
 .cat>#paw-left {
   background-image: url(../images/paw-left.png);
   z-index: 30
